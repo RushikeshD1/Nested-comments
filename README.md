@@ -18,3 +18,8 @@ The system is designed to be used in the front-end, with all interactions happen
 - **Cancel comment/reply creation**: A user can cancel writing a comment or reply before posting it.
 - **Reset button**: A **Reset** button is available that reloads the page, effectively clearing all current comments and replies.
 - **No Edit Functionality**: Currently, the "Edit" feature is not implemented.
+
+
+## Project Link
+
+You can view and interact with the project on [GitHub](https://rushikeshd1.github.io/Nested-comments/)
